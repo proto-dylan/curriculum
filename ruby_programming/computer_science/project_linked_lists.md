@@ -69,6 +69,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [proto-dylan's Solution (with extra credit, and help)](https://github.com/proto-dylan/linked_list)
 * [Bradley's Solution (with extra credit)](https://github.com/spaceincase/odin-project-exercises/tree/master/linked_lists)
 * [Billy's Solution (with extra credit)](https://github.com/bcoffin9/project_linked_list)
 * [Sher's Solution (with extra credit)](https://github.com/sher-s7/linkedlist)
