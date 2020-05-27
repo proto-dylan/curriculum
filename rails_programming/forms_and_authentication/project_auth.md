@@ -57,6 +57,7 @@ Send us your solution by editing this [file](https://github.com/TheOdinProject/c
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [proto-dylan's Solution](https://github.com/proto-dylan/members-only)
 * [Olugbade Olalekan's Solution](https://github.com/gbadesimple/members-only)
 * [Lucas Bide's Solution](https://github.com/Lucas-Bide/members-only)
 * [Run After's Solution](https://github.com/run-after/members-only)
